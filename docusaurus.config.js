@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'My Docusaurus Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://maskatcc.github.io',
-  baseUrl: '/docu1/',
+  baseUrl: '/docu2/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'maskatcc', // Usually your GitHub org/user name.
-  projectName: 'docu1', // Usually your repo name.
+  projectName: 'docu2', // Usually your repo name.
   trailingSlash: false,
 
   presets: [
